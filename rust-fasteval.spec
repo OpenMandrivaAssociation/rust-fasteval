@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.2.4
-Release:        1
+Release:        2
 Summary:        Fast evaluation of algebraic expressions
 
 # Upstream license specification: MIT
